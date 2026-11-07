@@ -1,3 +1,3 @@
 # teste_gama2
 
-testando repositório
+O repositório de teste é realmente para testes? testando...!
